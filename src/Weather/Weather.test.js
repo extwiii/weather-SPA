@@ -10,3 +10,8 @@ it('App component renders correctly', () => {
   const wrapper = shallow(<Weather />);
   expect(wrapper).toMatchSnapshot();
 });
+
+it('App component renders correctly with props', () => {
+  const wrapper = shallow(<Weather title="Now" icon="myIcon" temperature={32} />);
+  expect(wrapper).toMatchSnapshot();
+});

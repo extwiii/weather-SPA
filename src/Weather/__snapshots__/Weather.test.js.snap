@@ -21,3 +21,25 @@ exports[`App component renders correctly 1`] = `
   </p>
 </div>
 `;
+
+exports[`App component renders correctly with props 1`] = `
+<div>
+  <h3
+    style={
+      Object {
+        "color": "red",
+      }
+    }
+  >
+    Now
+  </h3>
+  <img
+    alt="myIcon"
+    src="https://openweathermap.org/img/w/myIcon.png"
+  />
+  <p>
+    32
+     °C
+  </p>
+</div>
+`;
