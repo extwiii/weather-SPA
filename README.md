@@ -1,7 +1,5 @@
 # weather-SPA
-React.js weather SPA
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+React.js weather SPA. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 [Live](https://extwiii-weather-spa.herokuapp.com/)
 
@@ -34,7 +32,7 @@ cd weather-SPA
 # Install NPM dependencies
 yarn install
 
-# Test your app 
+# Test your app note: test might fail on your local due to API design, weathers and time are changing every three hours
 yarn test
 
 # Simply build your app to dist
