@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders correctly 1`] = `
+<div>
+  <h3
+    style={
+      Object {
+        "color": "#48F",
+      }
+    }
+  >
+    Loading
+  </h3>
+  <img
+    alt=""
+    src="https://openweathermap.org/img/w/.png"
+  />
+  <p>
+    0
+     °C
+  </p>
+</div>
+`;
