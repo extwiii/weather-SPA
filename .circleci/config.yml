@@ -36,9 +36,9 @@ jobs:
       # run tests!
       - run: yarn test
       
-  # deploy to Heroku
-  deploy:
-    production:
-      branch: master
-      heroku:
-        appname: extwiii-weather-spa
+        # deploy to Heroku
+      - deploy:
+          production:
+            branch: master
+            heroku:
+              appname: extwiii-weather-spa
