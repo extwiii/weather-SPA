@@ -3,7 +3,7 @@ React.js weather SPA
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-[Live]()
+[Live](https://extwiii-weather-spa.herokuapp.com/)
 
 Features
 --------
@@ -13,6 +13,7 @@ Features
 - moment
 - jest
 - enzyme
+- circleCI
 
 Prerequisites
 -------------
