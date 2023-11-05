@@ -1,8 +1,6 @@
 # weather-SPA
 React.js weather SPA. This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-[Live](https://extwiii-weather-spa.herokuapp.com/)
-
 Features
 --------
 - react 
